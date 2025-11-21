@@ -1,6 +1,6 @@
 # Docker Assignment README
 
-## 1. Five DevOps Concepts (Explained Simply)
+## 1. Five DevOps Concepts 
 
 Here are five DevOps concepts in my own words — simple, practical, and based on how we actually use them in real projects.
 
