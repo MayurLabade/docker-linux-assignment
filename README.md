@@ -15,7 +15,9 @@ Continuous Integration helps prevent last-minute surprises and merge conflicts. 
 **Real-life example:**
 Imagine 5 developers working on a website. Without CI, everyone merges their code at the end, which often leads to chaos and broken code. With CI, each update is tested instantly, so problems are detected immediately and can be fixed before they affect the rest of the project.
 
-Tools: Jenkins, GitHub Actions
+**Tools:**
+- Jenkins
+- GitHub Actions
 ---
 
 ### **2. Continuous Delivery (CD)**
@@ -44,21 +46,24 @@ IaC allows setups to be repeated consistently without errors, making infrastruct
 **Real-life example from my assignment:**
 Instead of manually installing Linux tools and creating directories, I wrote commands in the Dockerfile to set up all necessary files, logs, and folders automatically. This ensured that I could rebuild the same environment anytime without mistakes.
 
-**Tools:** Docker (Dockerfile), Terraform, Ansible
+**Tools:**
+- Docker (Dockerfile)
+- Terraform
+- Ansible
 ---
 
 ### **4. Containerization**
 
-Definition:
+**Definition:**
 Containers are self-contained environments that include everything an application needs—code, libraries, and settings—so it behaves the same on any system.
 
-Why it matters:
+**Why it matters:**
 Containerization eliminates the common problem of “it works on my machine” because the environment is identical everywhere. Containers are lightweight, fast, and isolated, making deployment and scaling much easier while avoiding conflicts with other applications.
 
-Real-life example from my assignment:
+**Real-life example from my assignment:**
 I built a Docker container with Ubuntu and all the Linux tools needed for my assignment. Running it on my laptop or a server produced the same results without any dependency issues.
 
-Tools: Docker, Kubernetes (for orchestration)
+**Tools:** Docker, Kubernetes (for orchestration)
 
 ---
 
