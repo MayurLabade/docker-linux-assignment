@@ -56,9 +56,9 @@ Monitoring tracks the health of an application. Logging records all important ev
 
 ---
 
-## 2. How I Completed This Assignment (In My Own Words)
+## 2. How I Completed This Assignment 
 
-Below is a clean and simple explanation of how I approached and completed the Docker assignment without sounding like an AI.
+
 
 ### **Step 1: Created the Dockerfile**
 
@@ -142,4 +142,4 @@ Overall, this combined learning helped me understand how DevOps uses automation,
 
 ---
 
-This README reflects my understanding and experience while completing the assignment in a simple and human way.
+This README reflects my understanding and experience while completing the assignment in a simple way.
