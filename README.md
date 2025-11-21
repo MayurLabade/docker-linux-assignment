@@ -4,7 +4,7 @@
 
 Here are five DevOps concepts in my own words — simple, practical, and based on how we actually use them in real projects.
 
-1. Continuous Integration (CI)
+##1. Continuous Integration (CI)
 
 Definition:
 CI is your team’s safety net. Whenever code is written, it’s automatically merged and tested with the rest of the project. Mistakes are caught early, not at the end.
